@@ -1,4 +1,4 @@
-# Mavericks Inc. Movies #
+# Laravel Movie website Mavericks Inc. Movies #
 
 Assignment for Bachelor of IT, written in Laravel.
 
